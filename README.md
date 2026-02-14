@@ -24,15 +24,13 @@ assets/ → capturas de pantalla del proyecto en ejecución
 
 
 
-scripts/ → scripts SQL organizados
-
-
-
 docs/ → documentación técnica
 
 
 
-tests/ → consultas de prueba
+scripts/ → scripts SQL organizados
+
+
 
 ## Objetivo
 
