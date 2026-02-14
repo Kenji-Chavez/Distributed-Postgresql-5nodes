@@ -20,10 +20,16 @@ Este proyecto implementa una base de datos distribuida en PostgreSQL simulando u
 
 ## Estructura del Proyecto
 
+assets/ → capturas de pantalla del proyecto en ejecución
+
+
+
 scripts/ → scripts SQL organizados
 
 
+
 docs/ → documentación técnica
+
 
 
 tests/ → consultas de prueba
